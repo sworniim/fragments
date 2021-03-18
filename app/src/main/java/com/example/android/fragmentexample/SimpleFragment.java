@@ -1,6 +1,4 @@
 package com.example.android.fragmentexample;
-
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -21,12 +19,6 @@ public class SimpleFragment extends Fragment {
     private static final int NO = 1;
 
 
-    public SimpleFragment(){
-
-    }
-    public static SimpleFragment newInstance() {
-        return new SimpleFragment();
-    }
 
     /**
      * Creates the view for the fragment.
@@ -72,5 +64,7 @@ public class SimpleFragment extends Fragment {
         return rootView;
     }
 
-
+    public static SimpleFragment newInstance() {
+        return new SimpleFragment();
+    }
 }

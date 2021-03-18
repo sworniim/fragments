@@ -658,6 +658,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_back
 id cancel_action
 id chains
 id checkbox
@@ -676,6 +677,7 @@ id expand_activities_button
 id expanded_menu
 id forever
 id fragment_container
+id fragment_container2
 id fragment_header
 id home
 id homeAsUp
@@ -695,12 +697,14 @@ id message
 id middle
 id multiply
 id never
+id next_button
 id none
 id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
 id open_button
+id open_button1
 id packed
 id parent
 id parentPanel
@@ -791,6 +795,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_second
 layout fragment_simple
 layout notification_action
 layout notification_action_tombstone
@@ -848,9 +853,11 @@ string abc_toolbar_collapse_description
 string app_name
 string article1
 string article2
+string back
 string close
 string exception_message
 string hello_blank_fragment
+string next
 string no
 string no_message
 string open
