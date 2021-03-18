@@ -1,4 +1,4 @@
-# Fragment Task-1
+# Fragment Task-2
 ### App screenshot
-![](./yes.png)
-![](./no.png)
+![](./open.png)
+![](./close.png)
