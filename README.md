@@ -1,4 +1,4 @@
-# Fragment Task-1
+# Fragment Coding Challenge
 ### App screenshot
-![](./yes.png)
-![](./no.png)
+![](./rating.png)
+
